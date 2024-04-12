@@ -40,7 +40,8 @@ To set up the database:
 - Click on the MySQL Admin button in XAMPP to open phpMyAdmin.
 - Create a new database named 'trip'.
 - In this database, create a table named 'passengers' with the appropriate table structure.
-  ![Screenshot 2024-04-13 004201](https://github.com/Nauti-Rohit/majorProject-PHP-/assets/85772545/6545bd34-e8d5-4aca-9908-dde2df82981f)
+  ![Screenshot 2024-04-13 004201](https://github.com/Nauti-Rohit/Project_PHP/assets/85772545/aaeb75a1-1daa-484e-921b-028cd9d78e74)
+
 
 
 
